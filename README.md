@@ -1,7 +1,6 @@
 # demo-app-storybook
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+This is a repo that was created to demo Storybook for my talk during EmberFest 2021
 
 ## Prerequisites
 
@@ -24,6 +23,9 @@ You will need the following things properly installed on your computer.
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 * Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
 
+### Running storybook
+* `npm run storybook` (you need to run or build ember first)
+* Visit your Storybook at [http://localhost:6006](http://localhost:6006/)
 ### Code Generators
 
 Make use of the many generators for code, try `ember help generate` for more details
